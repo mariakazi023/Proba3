@@ -1,0 +1,291 @@
+društvene mreže
+----------------------------------------------------
+-----tipove drustvenih medija?
+
+** na osnovu drustvenih procesa
+– projekti saradnje (Wikipedia)
+– blogovi i mikroblogovi (Twitter i Tumbir)
+– zajednice za kreiranje i deljenje sadržaja (YouTube)
+– društvene mreže (Facebook)
+– virtuelni svetovi igara (World of Warcraft)
+– virtuelni društvene svetove (Second Life)
+
+
+**na osnovu tipova veza koje se na njima ostvaruju
+- formalne - mreže se zasnivaju na jasno definisanim pravilima
+- neformalne - drustvene mreže omogućavaju ostvarivanje veza između rodbine,
+prijatelja i kolega pri čemu za društveno povezivanje postoje strogo definisana pravila
+
+-----primenimo, navedemo mogucnosti drustvenih medija u poslovanju?
+
+**društvene mreže u poslovanju se najviše koriste za
+- uspostavljanje veza sa stejkeholderima
+- promovisanje proizvoda i usluga
+- zadržavanje i sticanje novih klijenata
+- kao i za realizaciju marketinških strategija i kampanja
+
+-----koji su alati koji prikazuju isplativost primene drustvenih medija u poslovanju?
+
+- google analytics (alat koji se koristi za utvrđivanje broja posetilaca s veb-sajtova društvenih medija ka sajtu preduzeća, kao i za utvrđivanje ponašanja korisnika na sajtu)
+- socialbankers analytics ( alati koriste za određivanje liste ključnih konkurenata, efektivnost oglasa, plasmana oglasa po zemljama, vremena u toku dana u kojem oglas doseže veći publiku, kreiranje izveštaja, upravljanje i kontrola realizacije kampanje, nadgledanje optimizacije društvenih medija itd.)
+- hootsuite (alat nudi jedinstveni online panel za upravljanje nalozima na različitim društvenim mrežama)
+- buffer (optimizuje vreme objavljanja postova vezanih za kampanju od njihovog objavljanja do maksimalnog angažovanja i odgovora)
+- localResponse (omogućava preduzećima prikupljanje informacija iz različitih komentara na postovima u cilju pružanja visokociljanih oglasa)
+- Moz analytics (preko kontrolnog panela omogućava uvid u statističke podatke vezane za realizaciju marketinške kampanje i prikazuje na koji način društveni mediji utiču na SEO)
+- Facebook insights (alat koji pruža kompletan uvid u statistiku facebook stranice. termini koji se pojavljuju u praćenju rezultata su page likes, post search i engagement)
+
+
+online servisi
+---------------------------------------------------
+
+----finansijski online servisi (napisala sam kao dva pitanja, vrv je jedno) 
+
+**Finansijski servis ne zahteva toliko veliko znanje,
+ali zahteva mnoštvo informacija koje će iskoristiti da 
+ispravno sprovede odgovarajuće transakcije i usmeri 
+nove investicije
+
+• Finansijski servisi najviše investiraju u informacione 
+tehnologije, ulažući 80% ukupnog kapitala u opremu i 
+servise za informacione tehnologije
+
+
+- online finansijski servisi beleže brz porast broja korisnika
+- finansijske institucije neprestano podstiču svoje korisnike da posećuju njihove sajtove
+- istraživanja pokazuju da su oni veoma privlačni za korisnike, jer korisnici radije štede vreme nego novac kada je reč o pristupu podacima
+- većina online potrošača koristi sajtove finansijskih servisa za osnovno upravljanje finansijama 
+(provera stanja na računu, online bankarski poslovi, traženje informacija o nepokretnoj imovini, plaćanje računa
+podnošenje molbe za iznajmljivanje automobila ili uzimanje kreditne kartice, zahtev za osiguranjem)
+
+**trendovi finansijskih servisa
+**višekanalni finansijki servisi
+**finansijski portali
+
+koliko finansijski servisi, koji je procenat ulaganja u finansijske servise
+koliko investiraju u informacione tehnologije - 80% ukupnog kapitala u opremu i servise informacionih tehnologija
+
+
+-----da li finansijski portali nude finansijske? servise 
+
+- ne nude, a prihod ostvarju od reklama i pretplata
+- omogućavaju korisnicima pristup finansijskim servisima
+
+-----da li je tacno da finansijske institucije koje posluju online bolje nego institucije koje imaju fizicka predstavnistva?
+ - netacno, ne mora da znaci
+-----osnonvi segmenti u online putnickoj industriji 
+- slobodna putovanja, organizovana (ili neorganizovana) poslovna putovanja **neki screenshot kao dodatak
+                 
+
+
+
+
+
+blogovi
+--------------------------------------------------
+
+blog blogging, sta je blog iterator... pojmovi nisam sve uhvatila
+
+-----pojmovi
+- blog je - vrsta automatizovanog veb sajta gde se sadržaj (tekst, slike, multimedija) unosi i orikazuje hronološki
+          - Web aplikacija koja na web strani prika
+- blogger 
+- blogging
+- blogosfera
+- blog agregator
+- blogroll
+
+-----ko je smislio web blog
+Jorn Barger 1997 - termin weblog
+-----ko je prvi osmislio blog
+Justin Hall 1994 (links.net)
+kraća verzija blog - Peter Merholz-a (1999)
+
+??? ovde je nes rekla
+
+-----koja su tri razloga za uvodjenje poslovnog bloga
+- poboljšava ukupnu komunikaciju u kompaniji i oko nje
+- štedi vreme i novac
+- unapređuje online marketing (instant povratne informacije sa tržišta - pojedinačni utisci, mišljenja, komentari i naravno kritike)
+- unapređuje znanje, veštine i iskustva
+- povećava zaradu
+- služi kao arhiva
+
+ 
+-----licni sajt i blog - razlika i prednost bloga
+- jednostavan način kreiranja i vođenja bloga (nije potrebno tehničko znanje da bi se napravio blog ...
+
+-----saveti za uspesno pisanje bloga
+privlacni naslovi
+preglednost
+sazeto
+azurirati
+-screenshot
+-----interni i eksterni poslovni blogovi
+int- ne mogu nisu dostupni siroj javnosti
+ekst- jesu
+
+komentari u spoljasnjem ne mozemo svuda ostaviti komentare
+unutrasnje imaju velike kompanije
+komunikacija svih zaposlnih ili menadžmenta i sistema
+sadržaj, da li je slobodna diskusija problema
+
+podela internih blogova
+blogovi znanja i iskustva
+saradnje
+kulture, kultni (nisu vezani za posao)
+
+eksterni podela
+prodajni, branding
+
+bitna ciljna grupa
+blogger?
+svrha se malo razlikuje
+relationship blogs- odnos sa javnosti/ PR
+
+bulletin istaknute reči (kod saveta)
+
+kako se povecava posecenost bloga
+-linkovanjem <
+prijava na blog agregatore i pretrazivac blogova
+addons
+
+---------------------------------------------------------------------
+-----sta je crm?
+sistem koji upravlja odnosima sa musterijama
+-----sta radi
+- prikuplja, cuva i analizira info o musterijama
+-----koreni crm-a koji su? preteča?
+pogotovo u americi
+tamo su ranije bili razvijeni od vrata do vrata reklame
+
+kada prodaju proizvod kako se raspitaju da li im se dopada proizvod
+-salju postom ankete
+
+-----bar 3 cilja crm-a
+profitiranje ?? nesto prema potrebama klijenata
+kada zna sta klijent zeli podesava cene po potrebama klijenata
+poslovni procesi ?? procedure
+
+
+-----3 aspekta crm-a
+operativni
+analiticki
+kolaborativni
+
+koji ne ukljucuje potrebe i uslove kompanije
+-kolaborativni
+
+komp- operativni
+analit-analizira potrebe
+
+
+3 proizvodjaca crm softvera
+mycrosoft dynamics
+siebel??
+sales force??
+
+cemu sluzi crm, koja je sustina
+sta sve omogucuje
+
+
+---------------------------------------------- addsense
+bar 3 tipa fcs?? programa rcs!
+za sadrzaj
+za predragu
+za mobilne uredjaje
+
+kad imamo napredna podesavanja
+ukljucimo addsense kod nas, iskljucimo da nam salje neke reklama, reklame konkurencije
+i nepristojne reklame
+
+editorial view mu to omoguci??
+kako sami odredimo koje reklame -- customize
+
+kols- cost per click??
+kako se naplacuju
+
+svaki klik nosi odredjenu sumu
+i jos jedan nacin, kada dostigne odredjen broj, vise se ne prikazuje
+
+-------------------------
+marketinska komunikacija |
+-------------------------
+
+-----partnerstvo dve firme u reklamiranju (dva oblika)
+-firme dele jednu veliku matičnu grupu od koje se traži da optimizuje preformanse svih priključenih sajtova, kreirajući linkove ka njima (SEO)
+-povezuje firme koje pridaju komplementarne proizvode i firme praktično koriste partnerstvo da bi omogućile korisnicima da lakše pristupe proizvodima za kojim tragaju
+
+- velika maticna grupa pa linkovi ka ?? firme
+-link ka firmi koja proizvodi komplemetarne proizvode pa se dopunjujemo
+
+-----intersticial reklame sta su i osnovni nedostatak
+ucitavaju se pri ucitavanju stranice
+mogu biti zamorne, dosadne
+pojavi se ta reklama i ne da drugu stranicu, ceo ekran
+
+-----online reklama u poredjenju sa tradicionalnom reklamom, prednosti
+ciljno reklamiranje
+pracenje preformansi
+
+bezbednost
+-----sta je to elektronski novcanik
+aplikacije koje predstavljaju nadgradnju standardnih instrumenata plaćanja, kao što su kartice ili transfer preko banke
+zasnivaju se na nalozima korisnika koji su otvoreni kod provajdera
+nakon uplate depozita, korisnik može da kupuje na veb sajtovima, tako što se uloguhe na svoj e-novčanik
+
+
+
+e-kes (elektronski novac)
+kako se obezbedjuje elektronski novac
+
+asimetricne kript metode
+
+brend?
+-----sta je to brend?
+- čine ga skup očekivanja koje potrošač ima kada upotrebljava ili razmišlja o upotrebi proizvoda  ili servisa specifične kompanije
+- skup očekivanja: kvalitet, pouzdanost, konistencija, poverenje, naklonjenost, lojalnost, reputacija
+
+-----sta su bubice
+-mali graficki fajlovi ugrađeni u e-mail ili na web sajt, ne vidimo ih, a oni snime sve kod nas
+- moguće ih je otkriti korišćenjem view source opcije
+- u img tagu
+- veličine jednog piksela
+-----cookies
+-tekstualni fajl koji web sajt postavi na hard disk posetičeoovg računara u toku svake posete
+-omogućavaju  kompanijama da brzo formiraju profile posetilaca i razumeju njihovo ponašanje na sajtu
+-određuje broj posetilaca sajta
+-koliko često pristupa sajtu
+-da li je novi ili stari posetilac
+
+na koji nacin ih sajtovi koriste
+postave se na hard disk
+nas id prate
+tekstualni su fajlovi
+
+-----karakteristike koje se učekuju od marketing zahteva
+-jezgro proizvoda - osnovne koristi koje potrošač od njega očekuje
+-aktuelni proizvod - skup karakteristika namenjenih održavanju osnovnih osobina koje definiše jezgro proizvoda
+(dizajn, pakovanje, obeležja, kvalitet, brend)
+-proširenje proizvoda - dodatne usluge koje potrošač dobija nakon kupovine proizvoda, kao što je isporuka proizvoda, garancija od nekoliko  godina, instalacija i plaćanje na kredit
+
+ 
+nivo aktuelnog proizvoda??
+ocekivanja koja imamo od određene kompanije koja formira obećanja
+
+dizajn, pakovanje proizvoda
+instalacija, kredit podrska, garancija
+
+nesto?? house sta je
+skladiste podataka-
+kakve podatke - o kupovinama i potrosacima (ponasanje potrosaca- koje proizvode kupuju)
+
+najpoznatiji offline sistemi za placanje elektronskim novcem
+-visacash
+-mastercard
+
+da li se e-cash proverava online ili offline
+online!!
+offline su oni viza, master
+
+
+
